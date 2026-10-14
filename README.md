@@ -196,8 +196,3 @@ GitHub:
 
 https://github.com/Mahitha-03
 
----
-
-## 📄 License
-
-This project was developed for educational and learning purposes.
